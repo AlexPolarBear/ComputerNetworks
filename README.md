@@ -1,4 +1,7 @@
-# ComputerNetworks
-Homeworks on the subject **Computer networks**
+## Homework 11. ***Транспортный уровень***
 
-сreated by student *Alexandra Durneva* from the group *22.M02-mkn*
+В этой ветке находятся задачи 3 и 4. Чтобы протестировать их, необходимо склонировать ветку этого репозитория командой в терминале:
+
+```git clone -b Homework_11 https://github.com/AlexPolarBear/ComputerNetworks.git```
+
+Инструкция по запуску задания прописана в каждом отдельном README в файле.
