@@ -4,4 +4,12 @@
 
 ```git clone -b Homework_11 https://github.com/AlexPolarBear/ComputerNetworks.git```
 
+Также убедитесь что установлена необходимая библиотека:
+
+```python -m pip show socket```
+
+Если выдается ошибка, установить библиотеку:
+
+```python -m pip install socket```
+
 Инструкция по запуску задания прописана в каждом отдельном README в файле.
