@@ -3,7 +3,7 @@
 
 Здесь реализована эмулятор RIP-протокола. Чтобы протестировать её необходимо склонировать эту ветку:
 
-```git clone -b Homework_11 https://github.com/AlexPolarBear/ComputerNetworks.git```
+```git clone -b Homework_12 https://github.com/AlexPolarBear/ComputerNetworks.git```
 
 Перейдите в склонированную папку и запустите программу
 
